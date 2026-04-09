@@ -1,4 +1,4 @@
-# 🎬 Controle de ingressos
+# 🎟️ Controle de ingressos
 
 Projeto simples para controlar quantidade de ingressos disponíveis.
 
